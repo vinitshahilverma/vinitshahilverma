@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Shahil Verma</h1>
 <hr>
-<p><img align="center" src="https://camo.githubusercontent.com/2b526261e88935a5671e4a20a23e230c06dc6e9192706fa9d40190bf0f58a050/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f66612f37622f34622f66613762346264633362326637336537343965356332633634366434616531332e676966
-" alt="vinitshahilverma" /></p>
+<p><img align="center" src="https://camo.githubusercontent.com/2b526261e88935a5671e4a20a23e230c06dc6e9192706fa9d40190bf0f58a050/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f66612f37622f34622f66613762346264633362326637336537343965356332633634366434616531332e676966" alt="vinitshahilverma" /></p>
+
 <h3 align="center">A passionate Backend developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vinitshahilverma&label=Profile%20views&color=0e75b6&style=flat" alt="vinitshahilverma" /> </p>
