@@ -8,6 +8,8 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vinitshahilverma" alt="vinitshahilverma" /></a> </p>
 
+- 👨‍💻 I'm currently living in Bokaro,Jharkhand
+
 - 🌱 I’m currently learning **Java,mySQL,AWS,SpringBoot**
 
 - 👨‍💻 All of my projects are available at [https://github.com/vinitshahilverma](https://github.com/vinitshahilverma)
@@ -16,7 +18,9 @@
 
 - 📫 How to reach me **vinitshahilverma@gmail.com**
 
--   Check my Portfolio :- https://vinitshahilverma.github.io/
+- 📫 Check my Portfolio :- https://vinitshahilverma.github.io/
+
+- 📫 Check my linkndIn :- www.linkedin.com/in/shahil-verma
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1ItBdmJXpomz7YkUo4jj95GZoaNmRlUzt/view?usp=sharing](https://drive.google.com/file/d/1ItBdmJXpomz7YkUo4jj95GZoaNmRlUzt/view?usp=sharing)
 
