@@ -18,9 +18,9 @@
 
 - 📫 How to reach me **vinitshahilverma@gmail.com**
 
-- 📫 Check my Portfolio :- https://vinitshahilverma.github.io/
+- 📫 Checkout my Portfolio :- https://vinitshahilverma.github.io/
 
-- 📫 Check my linkndIn :- www.linkedin.com/in/shahil-verma
+- 📫 Checkout my linkndIn :- www.linkedin.com/in/shahil-verma
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1ItBdmJXpomz7YkUo4jj95GZoaNmRlUzt/view?usp=sharing](https://drive.google.com/file/d/1ItBdmJXpomz7YkUo4jj95GZoaNmRlUzt/view?usp=sharing)
 
